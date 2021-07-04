@@ -1,0 +1,2 @@
+# GERBERtoGCODE
+I use to make a stencil for applying solder paste. The resulting G-code was generated for the programm LaserCNC with the commands to turn on the laser "M3 s" + the power value and turn off the "M5". A ready-made executable program for Windows in C# at the link https://spotter.com.ua/MyFiles/GerberToStencilll.exe Many thanks for the clicks on the advertisement as a support and development of my endeavors. http://spotter.com.ua http://new.rozrobleno.in.ua http://rozrobleno.in.ua
