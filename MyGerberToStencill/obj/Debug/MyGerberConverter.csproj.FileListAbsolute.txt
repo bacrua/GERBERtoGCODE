@@ -1,0 +1,26 @@
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\obj\Debug\MyGerberConverter.csprojAssemblyReference.cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\obj\Debug\MyGerberConverter.Form1.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\obj\Debug\MyGerberConverter.Properties.Resources.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\obj\Debug\MyGerberConverter.csproj.GenerateResource.cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\bin\Debug\MyGerberConverter.exe.config
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\bin\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\bin\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\obj\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter\MyGerberConverter\obj\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\bin\Debug\MyGerberConverter.exe.config
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\bin\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\bin\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\obj\Debug\MyGerberConverter.Form1.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\obj\Debug\MyGerberConverter.Properties.Resources.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\obj\Debug\MyGerberConverter.csproj.GenerateResource.cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\obj\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2\MyGerberConverter\obj\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\bin\Debug\MyGerberConverter.exe.config
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\bin\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\bin\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.csprojResolveAssemblyReference.cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.Form1.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.Properties.Resources.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.csproj.GenerateResource.Cache

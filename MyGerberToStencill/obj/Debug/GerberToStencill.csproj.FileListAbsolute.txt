@@ -1,0 +1,27 @@
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\bin\Debug\MyGerberConverter.exe.config
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\bin\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\bin\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\GerberToStencill.csprojResolveAssemblyReference.cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.Form1.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.Properties.Resources.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\GerberToStencill.csproj.GenerateResource.Cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\MyGerberConverter\obj\Debug\MyGerberConverter.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\obj\Debug\GerberToStencill.csprojResolveAssemblyReference.cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\obj\Debug\MyGerberConverter.Form1.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\obj\Debug\GerberToStencill.csproj.GenerateResource.Cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\bin\Debug\GerberToStencilll.exe.config
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\bin\Debug\GerberToStencilll.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\bin\Debug\GerberToStencilll.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\obj\Debug\GerberToStencilll.Properties.Resources.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\obj\Debug\GerberToStencilll.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberConverter_v2 without separate\GerberToStencill\obj\Debug\GerberToStencilll.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\bin\Debug\GerberToStencilll.exe.config
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\obj\Debug\GerberToStencilll.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\obj\Debug\GerberToStencilll.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\bin\Debug\GerberToStencilll.exe
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\bin\Debug\GerberToStencilll.pdb
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\obj\Debug\GerberToStencill.csprojResolveAssemblyReference.cache
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\obj\Debug\MyGerberConverter.Form1.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\obj\Debug\GerberToStencilll.Properties.Resources.resources
+D:\Projects\MY PROJECT\Project_C#\MyGerberToStencill\obj\Debug\GerberToStencill.csproj.GenerateResource.Cache
